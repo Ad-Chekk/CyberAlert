@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Critical RCE bug in VMware vCenter Server now exploited in attacks",
+        "description": "?Broadcom has warned that attackers are now exploiting two VMware vCenter Server vulnerabilities, one of which is a critical remote code execution flaw. The RCE vulnerability was reported during China's 2024 Matrix Cup hacking contest.",
+        "threat_type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "Ransomware gang Akira leaks unprecedented number of victims\u2019 data in one day",
+        "description": "Akira, a ransomware-as-a-service gang with a growing profile in the cybercrime underworld, has published a record number of new victims to its darknet leak site in a single day, and more apparently still being added.",
+        "threat_type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "Spotify abused to promote pirated software and game cheats",
+        "description": "Spotify playlists and podcasts are being abused to push pirated software, game cheat codes, and \"warez\" sites. By injecting targeted keywords and links in playlist names and podcast descriptions, threat actors may benefit from boosting SEO.",
+        "threat_type": "Identity Theft, Fraud, Scams"
+    },
+    {
+        "title": "New 'Helldown' Ransomware Variant Expands Attacks to VMware and Linux Systems",
+        "description": "Helldown deploys Windows ransomware derived from the LockBit 3.0 code. Given the recent development of ransomware targeting ESX, it appears that the group could be evolving its current operations to target virtualized infrastructures via VMware.",
+        "threat_type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "LibreNMS Vulnerability (CVE-2024-51092): Mitigating the Risk of Server Compromise",
+        "description": "A recent security advisory from the LibreNMS project has revealed a severe vulnerability (CVE-2024-51092) affecting versions up to 24.9.1 of the widely-used network monitoring platform. The flaw is rated a critical 9.1 on the CVSS scale.",
+        "threat_type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "QuickBooks popup scam still being delivered via Google ads",
+        "description": "We\u2019ve seen two main lures, both via Google ads: the first one is simply a website promoting online support for QuickBooks and shows a phone number, while the latter requires victims to download and install a program that will generate a popup.",
+        "threat_type": "Identity Theft, Fraud, Scams"
+    },
+    {
+        "title": "New Stealthy BabbleLoader Malware Spotted Delivering WhiteSnake and Meduza Stealers",
+        "description": "BabbleLoader is an \"extremely evasive loader, packed with defensive mechanisms, that is designed to bypass antivirus and sandbox environments to deliver stealers into memory.",
+        "threat_type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "The Evasive Nature of an Emerging Two-step Phishing Threat",
+        "description": "In a campaign targeting hundreds of organizations worldwide, cyber criminals are exploiting Microsoft Visio files (.vsdx) and SharePoint to execute two-step phishing attacks.",
+        "threat_type": "Threat Intel & Info Sharing"
+    },
+    {
+        "title": "Inside Bitdefender Labs\u2019 Investigation of a Malicious Facebook Ad Campaign Targeting Bitwarden Users",
+        "description": "The campaign tricks users into installing a harmful browser extension under the guise of a security update. Key findings include:Platform Exploitation. Attackers are leveraging Facebook\u2019s advertising platform to deliver ads that look legitimate.",
+        "threat_type": "Identity Theft, Fraud, Scams"
+    },
+    {
+        "title": "BrazenBamboo Weaponizes FortiClient Vulnerability to Steal VPN Credentials via DEEPDATA",
+        "description": "Volexity discovered and reported a vulnerability in Fortinet's Windows VPN client, FortiClient, where user credentials remain in process memory after a user authenticates to the VPN. This vulnerability was abused by BrazenBamboo.",
+        "threat_type": "Malware and Vulnerabilities"
+    }
+]
